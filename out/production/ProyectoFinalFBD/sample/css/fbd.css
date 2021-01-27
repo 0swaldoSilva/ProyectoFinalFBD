@@ -1,0 +1,83 @@
+.root{
+    -fx-background-image: url("/sample/images/fondoMenu.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 1366px 720px;
+    -fx-background-position: center;
+}
+
+#btnEmpleado{
+    -fx-background-image: url("/sample/images/empleado.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: black;
+    -fx-border-width: 4;
+}
+
+#btnSocio{
+    -fx-background-image: url("/sample/images/socio.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: black;
+    -fx-border-width: 4;
+}
+
+#btnBebida{
+    -fx-background-image: url("/sample/images/bebida.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: black;
+    -fx-border-width: 4;
+}
+
+#btnPlatillo{
+    -fx-background-image: url("/sample/images/platillo.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: black;
+    -fx-border-width: 4;
+}
+
+#btnCombo{
+    -fx-background-image: url("/sample/images/combo.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: black;
+    -fx-border-width: 4;
+}
+
+#btnCuenta{
+    -fx-background-image: url("/sample/images/cuenta.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: black;
+    -fx-border-width: 4;
+}
+
+#btnSalir{
+    -fx-background-image: url("/sample/images/salir.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: black;
+    -fx-border-width: 4;
+}
+
+.label {
+    -fx-font-family: Arial, Helvetica, sans-serif;
+    -fx-text-align: center;
+    -fx-text-fill: black;
+    -fx-font-size: 26px;
+}

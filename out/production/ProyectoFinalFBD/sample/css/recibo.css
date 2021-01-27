@@ -1,0 +1,24 @@
+.root{
+    -fx-background-color: #82EEA6;
+}
+
+#vBox{
+    -fx-background-image: url("/sample/images/hoja.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: auto;
+    -fx-background-position: center;
+}
+
+#vBoxGeneral{
+    -fx-background-image: url("/sample/images/hoja.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 600px 600px;
+    -fx-background-position: center;
+}
+
+#lblTitulo{
+    -fx-font-family: Arial, Helvetica, sans-serif;
+    -fx-text-align: center;
+    -fx-text-fill: black;
+    -fx-font-size: 26px;
+}

@@ -1,0 +1,6 @@
+.root{
+    -fx-background-image: url("/sample/images/fondoDinero.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 1366px 720px;
+    -fx-background-position: center;
+}
